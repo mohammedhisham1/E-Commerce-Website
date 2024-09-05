@@ -9,7 +9,7 @@
     "build": "tsc"
   },
   "keywords": [],
-  "author": "Abdelrahman Sherif",
+  "author": "Mohammad Hesham",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.4.5",
